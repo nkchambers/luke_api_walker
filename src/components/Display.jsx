@@ -81,10 +81,9 @@ const Display = () => {
                         <h5>Passengers: {starWarsInfo.passengers}</h5>
                         <h5>Vehicle Class: {starWarsInfo.vehicle_class}</h5>
                     </div>
-                : 
+                :
                     <div>
-                        <img src="https://static.wikia.nocookie.net/star-wars-memes/images/e/e4/
-                                NotTheDroids.png/revision/latest?cb=20200707002606" alt=""/>
+                        <img src="https://www.meme-arsenal.com/memes/52577612a290566287f2273992fa918e.jpg" alt=""/>
                     </div>
             }
         </div>

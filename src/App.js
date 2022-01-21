@@ -16,7 +16,6 @@ function App() {
       {/* Place form comp outside switch 
       to display on every route */}
       <Form/>
-      
 
 
       {/* Switch will be used to handle different 
